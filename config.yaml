@@ -1,0 +1,9 @@
+app:
+  port: 3303
+
+db:
+  host: "localhost"
+  port: "8889"
+  username: "root"
+  password: "root"
+  database: "workshop"
